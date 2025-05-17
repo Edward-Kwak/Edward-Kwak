@@ -20,12 +20,12 @@ I'm Flutter developer in Korea. 🇰🇷
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
 
 
-📮 Contact
+📮 **Contact**
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdw158@gmail.com)](mailto:kdw158@gmail.com)
 
 
-🌈 Skills
+🌈 **Skills**
 
 ![Flutter Badge](https://img.shields.io/badge/Flutter-4183D7?style=flat-square&logo=flutter)
 ![Dart Badge](https://img.shields.io/badge/Dart-0C65D7?style=flat-square&logo=dart)
