@@ -20,7 +20,7 @@ I'm Flutter developer in Korea. 🇰🇷
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
 
 
-📮 **Contact**
+📮 <span style="font-size: 32px;"><strong>Contact</strong></span>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdw158@gmail.com)](mailto:kdw158@gmail.com)
 
