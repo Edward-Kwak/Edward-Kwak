@@ -1,31 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Edward-Kwak/Edward-Kwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm Flutter developer in Korea. 🇰🇷
 - 💪 I'm a developer who has always grown together with my colleagues and our business.
 - 🔥 I’m currently working on my individual project.
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
 
 
-📮 <span style="font-size: 32px;"><strong>Contact</strong></span>
+### 📮 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdw158@gmail.com)](mailto:kdw158@gmail.com)
 
 
-🌈 **Skills**
+### 🌈 Skills
 
 ![Flutter Badge](https://img.shields.io/badge/Flutter-4183D7?style=flat-square&logo=flutter)
 ![Dart Badge](https://img.shields.io/badge/Dart-0C65D7?style=flat-square&logo=dart)
@@ -40,6 +26,7 @@ I'm Flutter developer in Korea. 🇰🇷
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
