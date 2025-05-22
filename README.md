@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Edward-Kwak.Edward-Kwak)
+
 ## Hi there 👋
 
 I'm Flutter developer in Korea. 🇰🇷
